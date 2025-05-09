@@ -16,7 +16,6 @@
 <div class="grid-container" style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 20px; padding: 20px;">
 
 <div class="card" style="background: #000000; border-radius: 10px; padding: 20px; box-shadow: 0 4px 8px rgba(0,0,0,0.2); border: 1px solid #ff3e3e;">
-  <img src="https://raw.githubusercontent.com/DryZer0Dev/XIWA/main/assets/images/windows-icon.png" width="64px" height="64px" alt="Windows Icon">
   <h3 style="color: #ff3e3e;">🪟 Windows</h3>
   <ul style="text-align: left; list-style: none; padding-left: 0; color: #fff;">
     <li>✓ Découverte Windows 10/11</li>
@@ -27,7 +26,6 @@
 </div>
 
 <div class="card" style="background: #000000; border-radius: 10px; padding: 20px; box-shadow: 0 4px 8px rgba(0,0,0,0.2); border: 1px solid #ff3e3e;">
-  <img src="https://raw.githubusercontent.com/DryZer0Dev/XIWA/main/assets/images/linux-icon.png" width="64px" height="64px" alt="Linux Icon">
   <h3 style="color: #ff3e3e;">🐧 Linux & Kali</h3>
   <ul style="text-align: left; list-style: none; padding-left: 0; color: #fff;">
     <li>✓ Installation VM Kali</li>
@@ -38,7 +36,6 @@
 </div>
 
 <div class="card" style="background: #000000; border-radius: 10px; padding: 20px; box-shadow: 0 4px 8px rgba(0,0,0,0.2); border: 1px solid #ff3e3e;">
-  <img src="https://raw.githubusercontent.com/DryZer0Dev/XIWA/main/assets/images/security-icon.png" width="64px" height="64px" alt="Security Icon">
   <h3 style="color: #ff3e3e;">🔐 Cybersécurité</h3>
   <ul style="text-align: left; list-style: none; padding-left: 0; color: #fff;">
     <li>✓ Scanner de vulnérabilités</li>
