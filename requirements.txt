@@ -1,0 +1,6 @@
+colorama==0.4.6
+customtkinter==5.2.1
+Pillow==10.1.0
+python-nmap==0.7.1
+requests==2.31.0
+tkinter 
