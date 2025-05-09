@@ -53,26 +53,32 @@
 
 ## 🌟 Caractéristiques
 
-<div class="features-grid" style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 15px; margin: 20px 0;">
+<div align="center">
+  <div class="grid-container" style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 20px; padding: 20px;">
 
-<div class="feature" style="background: #1a1a1a; padding: 15px; border-radius: 8px; border: 1px solid #ff3e3e;">
-  <h4>🚀 Interface Intuitive</h4>
-  <p>Menu CLI interactif avec navigation fluide et commandes simples</p>
-</div>
+    <div class="card" style="background: #1a1a1a; border-radius: 10px; padding: 20px; box-shadow: 0 4px 8px rgba(0,0,0,0.2); border: 1px solid #ff3e3e;">
+      <img src="https://cdn-icons-png.flaticon.com/512/4712/4712106.png" width="64px" height="64px" alt="Automatisation Icon">
+      <h3 style="color: #ff3e3e;">⚙️ Automatisation</h3>
+      <p style="color: #f0f0f0;">Lance automatiquement des scripts selon le contexte (réseau, analyse, OS...)</p>
+    </div>
 
-<div class="feature" style="background: #1a1a1a; padding: 15px; border-radius: 8px; border: 1px solid #ff3e3e;">
-  <h4>🔄 Mises à jour régulières</h4>
-  <p>Nouvelles fonctionnalités et corrections de bugs hebdomadaires</p>
-</div>
+    <div class="card" style="background: #1a1a1a; border-radius: 10px; padding: 20px; box-shadow: 0 4px 8px rgba(0,0,0,0.2); border: 1px solid #ff3e3e;">
+      <img src="https://cdn-icons-png.flaticon.com/512/4213/4213179.png" width="64px" height="64px" alt="Toolbox Icon">
+      <h3 style="color: #ff3e3e;">🧰 Toolbox intégrée</h3>
+      <p style="color: #f0f0f0;">Inclut les meilleurs outils de pentest directement utilisables via le menu</p>
+    </div>
 
-<div class="feature" style="background: #1a1a1a; padding: 15px; border-radius: 8px; border: 1px solid #ff3e3e;">
-  <h4>📚 Documentation détaillée</h4>
-  <p>Wiki complet et guides pas à pas pour chaque module</p>
-</div>
+    <div class="card" style="background: #1a1a1a; border-radius: 10px; padding: 20px; box-shadow: 0 4px 8px rgba(0,0,0,0.2); border: 1px solid #ff3e3e;">
+      <img src="https://cdn-icons-png.flaticon.com/512/8032/8032320.png" width="64px" height="64px" alt="Cross Platform Icon">
+      <h3 style="color: #ff3e3e;">💻 Cross-Platform</h3>
+      <p style="color: #f0f0f0;">Fonctionne sur Windows, Linux, Kali, Termux et systèmes dérivés</p>
+    </div>
 
-<div class="feature" style="background: #1a1a1a; padding: 15px; border-radius: 8px; border: 1px solid #ff3e3e;">
-  <h4>🛡️ Sécurité avancée</h4>
-  <p>Outils de pentest et d'audit de sécurité professionnels</p>
-</div>
+    <div class="card" style="background: #1a1a1a; border-radius: 10px; padding: 20px; box-shadow: 0 4px 8px rgba(0,0,0,0.2); border: 1px solid #ff3e3e;">
+      <img src="https://cdn-icons-png.flaticon.com/512/686/686104.png" width="64px" height="64px" alt="Terminal Design Icon">
+      <h3 style="color: #ff3e3e;">🎨 Design stylé</h3>
+      <p style="color: #f0f0f0;">Une interface CLI colorée, sombre et immersive pour un vrai feeling hacking</p>
+    </div>
 
+  </div>
 </div>
